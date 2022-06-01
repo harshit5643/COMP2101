@@ -1,5 +1,6 @@
-echo '#!/bin/bash' 
-echo 'Hello world'
+#!/bin/bash
+# My first script - helloworld.sh
 
-exit
+echo 'Hello World!'
+echo "I am process # $$"
 
